@@ -32,7 +32,7 @@ Run applications to create bootable flash drive
 
 # UEFI Setup Configuration and Installation
 
-##UEFI configuration
+## UEFI configuration
 My BIOS is F10 (I use an 8th generation processor, so I don't need to upgrade)
 - Shutdown and insert the flash.
 - Power on with DEL pressed to enter BIOS setup.
@@ -97,7 +97,7 @@ sudo pmset -a hibernatemode 0
 ```
 
 # Sources
-https://mackie100projects.altervista.org/download-clover-configurator/
-https://www.insanelymac.com/forum/topic/341346-guide-gigabyte-ga-z370n-wifi-i7-8700k-uhd-630-catalina-10155/
-https://www.youtube.com/watch?v=paEke_oobZI&t=132s
-https://github.com/acidanthera/WhateverGreen
+- https://mackie100projects.altervista.org/download-clover-configurator/
+- https://www.insanelymac.com/forum/topic/341346-guide-gigabyte-ga-z370n-wifi-i7-8700k-uhd-630-catalina-10155/
+- https://www.youtube.com/watch?v=paEke_oobZI&t=132s
+- https://github.com/acidanthera/WhateverGreen
